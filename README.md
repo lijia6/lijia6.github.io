@@ -1,3 +1,3 @@
-# hurenjun.github.io
-Personal Website of Renjun Hu please visit
-https://hurenjun.github.io/
+# lijia6.github.io
+Personal Website of Jia Li please visit
+https://lijia6.github.io/
