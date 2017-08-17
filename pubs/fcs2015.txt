@@ -1,0 +1,15 @@
+@article{MaLHLH16,
+  author    = {Shuai Ma and
+               Jia Li and
+               Chunming Hu and
+               Xuelian Lin and
+               Jinpeng Huai},
+  title     = {Big graph search: challenges and techniques},
+  journal   = {Frontiers of Computer Science},
+  volume    = {10},
+  number    = {3},
+  pages     = {387--398},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/s11704-015-4515-1},
+  doi       = {10.1007/s11704-015-4515-1},
+}
