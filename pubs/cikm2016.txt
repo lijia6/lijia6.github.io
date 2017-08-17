@@ -1,0 +1,13 @@
+@inproceedings{LiCL16,
+  author    = {Jia Li and
+               Yang Cao and
+               Xudong Liu},
+  title     = {Approximating Graph Pattern Queries Using Views},
+  booktitle = {Proceedings of the 25th {ACM} International Conference on Information
+               and Knowledge Management, {CIKM} 2016, Indianapolis, IN, USA, October
+               24-28, 2016},
+  pages     = {449--458},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2983323.2983766},
+  doi       = {10.1145/2983323.2983766},
+}
